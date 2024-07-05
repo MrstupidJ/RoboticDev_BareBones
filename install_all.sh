@@ -8,3 +8,4 @@
 # tools
 . ./src/tools/docker.sh
 . ./src/tools/ros2humble.sh
+. ./src/tools/zotero.sh 
