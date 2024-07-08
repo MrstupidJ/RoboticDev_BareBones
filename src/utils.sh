@@ -6,6 +6,7 @@ apt-get install -y  curl \
                     git \
                     htop \
                     terminator \
+                    tree \
 
 
 # enable syntax highlighting for all the available languages
